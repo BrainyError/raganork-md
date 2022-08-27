@@ -24,7 +24,7 @@ module.exports = {
     SESSION: process.env.SESSION || '',
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f","deb80cd12ababea1c9b9a8ad6ce3fab2","78c84c62b32a88e86daf87dd509a657a"],
     RG: process.env.RG || '919074309534-1632403322@g.us',
-    BOT_INFO: process.env.BOT_INFO || 'Brainy;Skl11;0;https://i.imgur.com/vP3UOiw.jpg;https://wa.me/254729711258',
+    BOT_INFO: process.env.BOT_INFO || 'Brainy;Error;0;https://i.imgur.com/vP3UOiw.jpg;https://wa.me/254729711258',
     RBG_KEY: process.env.RBG_KEY || '',
     ALLOWED: process.env.ALLOWED || '91,94,212',
     CHATBOT: process.env.CHATBOT || 'off',
